@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="188" />
+    <option name="y" value="155" />
+    <option name="width" value="974" />
+    <option name="height" value="555" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/LTS-P-lightbend-akka-streams-for-scala-professional-v1/exercises" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Play-mailer2/Play-mailer" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/chat-application-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/lagom-scala-sbt" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/play-akka-sharding/play-akka-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/play-samples-play-scala-hello-world-tutorial" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/play-samples-play-scala-starter-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/play-samples-play-scala-starter-example (1)" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/working-with-lists-develop" value="PREVIEW" />
+        <entry key="$USER_HOME$/HP/oculus-analytics" value="PREVIEW" />
+        <entry key="$USER_HOME$/akka-typed-persistence-sharding" value="PREVIEW" />
+        <entry key="$USER_HOME$/playfw_sample" value="PREVIEW" />
+        <entry key="$USER_HOME$/sbt-findsecbugs" value="PREVIEW" />
+        <entry key="$USER_HOME$/typed-payment-processor" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
